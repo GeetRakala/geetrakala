@@ -7,6 +7,7 @@ I’m a quantitative researcher working at the intersection of **stochastic mode
 - 🧠 Background (from academia): HPC + Monte Carlo + graph algorithms + numerical methods (C++/MPI/SLURM/JAX)
 - ⚡ I like building fast, testable research code: pricing engines, simulators, and ML (classical and quantum) pipelines
 - 📚 Publications (academic): https://scholar.google.co.in/citations?user=xbZKBvcAAAAJ&hl=en
+- 💼 LinkedIn: https://www.linkedin.com/in/geetrakala/
 
 ---
 
