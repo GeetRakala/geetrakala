@@ -24,7 +24,7 @@ I’m a quantitative researcher working at the intersection of **stochastic mode
 - GPU-accelerated research implementations using **JAX**
 - Quantum cognition machine learning for state-of-the-art intrinsic dimension estimation
 - Quantum physics-informed neural nets (QPINNs)
-- Charecter-level transformers for word games
+- Character-level transformers for word games
 
 ---
 
