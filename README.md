@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I’m Geet
 
-<!--
-**GeetRakala/geetrakala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a quantitative researcher working at the intersection of **stochastic modeling**, **market microstructure**, **high-performance simulation**, and **quantum-inspired ML**.
 
-Here are some ideas to get you started:
+- 🔭 Currently: Quant Research Associate (crypto options / market making)
+- 🧠 Background: HPC + Monte Carlo + graph algorithms + numerical methods (C++/MPI/SLURM/JAX)
+- ⚡ I like building fast, testable research code: pricing engines, simulators, and ML (classical and quantum) pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I work on
+
+### 📈 Quant & market microstructure
+- Options pricing + calibration (using stochastic models)
+- Market-making and inventory-risk control 
+- Volatility forecasting 
+
+### 🧮 HPC simulation & numerical algorithms
+- Massively parallel Monte Carlo workflows (C/C++/MPI/Slurm)
+- Graph-based strong-disorder renormalization algorithms & efficient shortest-path machinery (C++/Boost Graph Library)
+- Reproducible sweeps: orchestration, checkpointing, and validation vs baselines
+
+### 🧠 Quantum / Classical machine learning
+- GPU-accelerated research implementations using **JAX**
+- Quantum cognition machine learning for state-of-the-art intrinsic dimension estimation
+- Quantum physics-informed neural nets (QPINNs)
+- Charecter-level transformers for word games
+
+---
+
+## Featured projects
+- **QCML Intrinsic Dimension Estimation (JAX, GPU)**  
+  https://github.com/GeetRakala/QCML
+- **Quantum Physics Inspire Neural Network (JAX, Pennylane)**   
+  https://github.com/GeetRakala/QPINN
+- **Strong Disorder Renormalization on Graphs (C++, HPC)**  
+  https://github.com/GeetRakala/SDRG
+- **Hangman player using a custom character-level transformer (JAX, GPU)**   
+  https://github.com/GeetRakala/HANGMAN
+
+---
+
+## Toolbox
+**C/C++**, **Python**, **JAX**, **Pandas**, **Boost Graph Library**, **MPI**, **SLURM**, **GNU Parallel**  
+(plus lots of profiling, numerics, and careful validation)
+
+---
