@@ -3,7 +3,7 @@
 I’m a quantitative researcher working at the intersection of **stochastic modeling**, **market microstructure**, **high-performance simulation**, and **quantum-inspired ML**.
 
 - 🔭 Currently: Quant Research Associate (crypto options / market making)
-- 🎓 Academia: PhD (TIFR) + Postdoc (OIST)
+- 🎓 Academia: PhD (TIFR, Mumbai, India) + Postdoc (OIST, Okinawa, Japan)
 - 🧠 Background (from academia): HPC + Monte Carlo + graph algorithms + numerical methods (C++/MPI/SLURM/JAX)
 - ⚡ I like building fast, testable research code: pricing engines, simulators, and ML (classical and quantum) pipelines
 - 📚 Publications (academic): https://scholar.google.co.in/citations?user=xbZKBvcAAAAJ&hl=en
