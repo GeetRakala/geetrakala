@@ -19,15 +19,15 @@ I’m a quantitative researcher working at the intersection of **stochastic mode
 - Volatility forecasting
 
 ### 🧮 HPC simulation & numerical algorithms
-- Massively parallel Monte Carlo workflows (C/C++/MPI/Slurm)
+- Massively parallel Monte Carlo workflows **(C/C++/MPI/Slurm)**
 - Graph-based strong-disorder renormalization algorithms and efficient shortest-path machinery (C++/Boost Graph Library)
 - Reproducible sweeps: orchestration, checkpointing, and validation against baselines
 
 ### 🧠 Quantum / classical machine learning
-- GPU-accelerated research implementations using **JAX**
-- Quantum cognition machine learning for state-of-the-art intrinsic dimension estimation
+- GPU-accelerated research implementations **(JAX)**
+- Quantum cognition machine learning (QCML) for state-of-the-art intrinsic dimension estimation
 - Quantum physics–informed neural nets (QPINNs)
-- Character-level transformers for word games
+- Character-level transformers for word prediction
 
 ---
 
