@@ -14,10 +14,15 @@ I’m a quantitative researcher working at the intersection of **stochastic mode
 
 ## What I work on
 
+[CURRENT]
+
 ### 📈 Quant & market microstructure
-- Options pricing and calibration (using stochastic models)
-- Market-making and inventory risk control
-- Volatility time series forecasting
+- Options pricing and calibration
+- Low-latency concurrent architecture for market-making and inventory risk control
+- Volatility time-series forecasting
+- Realistic back-testing pipelines
+
+[PREVIOUS]
 
 ### 🧮 HPC simulation & numerical algorithms
 - Massively parallel Monte Carlo workflows **(C/C++/MPI/Slurm)**
