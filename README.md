@@ -1,14 +1,11 @@
 # Hi, I’m Geet
 
-I’m a quantitative researcher working at the intersection of **stochastic modeling**, **market microstructure**, **high-performance simulation**, and **quantum-inspired ML**.
-
-- 🔭 Currently: Quant Research Associate (crypto options / market making)
-- 🎓 Academia: PhD (TIFR, Mumbai, India) + Postdoc (OIST, Okinawa, Japan)
-- 🧠 Background (from academia): HPC + Monte Carlo + graph algorithms + numerical methods (C++/MPI/SLURM/JAX)
-- ⚡ I like building fast, testable research code: pricing engines, simulators, and ML (classical and quantum) pipelines
-- 📚 Publications (academic): https://scholar.google.co.in/citations?user=xbZKBvcAAAAJ&hl=en
-- 📝 Thesis (PhD): https://theory.tifr.res.in/Research/Thesis/Geet-Rakala_thesis.pdf
-- 💼 LinkedIn: https://www.linkedin.com/in/geetrakala/
+-  Currently: Quantitative Researcher (HFT)
+-  Academia: PhD (TIFR, Mumbai, India) + Postdoc (OIST, Okinawa, Japan)
+-  Background (from academia): HPC + Monte Carlo + graph algorithms + numerical methods (C++/MPI/SLURM/JAX)
+-  Publications (academic): https://scholar.google.co.in/citations?user=xbZKBvcAAAAJ&hl=en
+-  Thesis (PhD): https://theory.tifr.res.in/Research/Thesis/Geet-Rakala_thesis.pdf
+-  LinkedIn: https://www.linkedin.com/in/geetrakala/
 
 ---
 
@@ -16,20 +13,20 @@ I’m a quantitative researcher working at the intersection of **stochastic mode
 
 [CURRENT]
 
-### 📈 Quant & market microstructure
+### Quant 
 - Options pricing and calibration
-- Low-latency concurrent architecture for market-making and inventory risk control
+- Low-latency architecture 
 - Volatility time-series forecasting
 - Realistic back-testing pipelines
 
 [PREVIOUS]
 
-### 🧮 HPC simulation & numerical algorithms
+### HPC simulation & numerical algorithms
 - Massively parallel Monte Carlo workflows **(C/C++/MPI/Slurm)**
 - Graph-based strong-disorder renormalization algorithms and efficient shortest-path machinery (C++/Boost Graph Library)
 - Reproducible sweeps: orchestration, checkpointing, and validation against baselines
 
-### 🧠 Quantum / classical machine learning
+###  Quantum / classical machine learning
 - GPU-accelerated research implementations **(JAX)**
 - Quantum cognition machine learning (QCML) for state-of-the-art intrinsic dimension estimation
 - Quantum physics–informed neural nets (QPINNs)
@@ -38,14 +35,14 @@ I’m a quantitative researcher working at the intersection of **stochastic mode
 ---
 
 ## Featured projects
-- **QCML Intrinsic Dimension Estimation (JAX, GPU)**  
-  https://github.com/GeetRakala/QCML
-- **Quantum Physics–Inspired Neural Network (JAX, PennyLane)**  
-  https://github.com/GeetRakala/QPINN
 - **Strong Disorder Renormalization on Graphs (C++, HPC)**  
   https://github.com/GeetRakala/SDRG
 - **Hangman player using a custom character-level transformer (JAX, GPU)**  
   https://github.com/GeetRakala/HANGMAN
+- **QCML Intrinsic Dimension Estimation (JAX, GPU)**  
+  https://github.com/GeetRakala/QCML
+- **Quantum Physics–Inspired Neural Network (JAX, PennyLane)**  
+  https://github.com/GeetRakala/QPINN
 
 ---
 
