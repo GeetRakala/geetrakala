@@ -11,7 +11,7 @@
 
 ## What I work on
 
-[CURRENT]
+[LAST UPDATED: FEB 2026]
 
 ### Quant 
 - Options pricing and calibration
